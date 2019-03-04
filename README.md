@@ -1,0 +1,2 @@
+# Smart-Enivironment-Monitoring-Device-Using-Beaglebone-Green
+In this project I will be designing and implementing a “smart” environment monitoring device using the BeagleBone Green development board along with two offboard sensors. An example of the sensor’s application would be a refrigerator where the purpose is to monitor for out-of-bounds conditions such as an exterior door left open via a light sensor or the internal storage temperature rising too high for properly preserving food.
